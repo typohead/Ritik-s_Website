@@ -1,0 +1,208 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+
+
+
+
+.top-container{
+	width: 100%;
+	padding-top: 100px;
+	background-color: #a7d0cd;
+	position: relative;
+
+}
+
+#upper-cloud{
+	position:absolute;
+	right:400px;
+	top:50px;
+
+}
+
+
+#lower-cloud{
+	position: absolute;
+	top:295px;
+	left:310px;
+
+}
+
+
+#lower-cloud-2{
+	position:absolute;
+	top:160px;
+	right:250px;
+	height:auto;
+	width:100px;
+	
+	
+}
+
+.pro{
+	text-decoration:underline;
+	color: #7b6079;
+
+}
+.mountain{
+
+	height: auto;
+	width: 620px;
+}
+
+
+body{
+	text-align:center;
+	font-family: 'Roboto Slab', serif;
+	background-color: #EEFFFF;
+	}
+
+
+
+h1{
+	margin:70px 0px 10px 0px;
+	font-size: 6.125rem;
+	font-family:'Bilbo',cursive;
+	
+	}
+
+h2{
+	font-family: 'Cantarell', sans-serif;
+	margin: 28px 0px 20px 0;
+	font-size: 2.45rem;
+	font-weight: bolder;
+	color: #de8971;
+}
+
+h3{
+	font-family: 'Cantarell', sans-serif;
+	margin:0 0 20px 0;
+}
+
+
+p{
+	line-height: 30px;
+}
+
+
+hr{
+	height:0;
+	width:6%;
+	margin:50px auto;
+	border-style:none;
+	border-bottom-style:dotted;
+	border-width:10px;
+	border-color:#a7d0cd;
+
+}
+
+/*------------------------------------------------------Middle-Container----------------------------------------------*/
+.middle-container{
+	
+}
+
+.profile{
+
+	padding-top: 100px;
+	padding-bottom:120px;
+
+}
+
+.profile-photo{
+	width:190px;
+	height: auto;
+	margin:auto;
+	margin-top:20px;
+	border-radius: 50%;
+	box-shadow:12px 0px 2px -1px #a7d0cd;
+
+}
+
+
+.skills{
+	padding:70px 0;
+	
+}
+
+
+.skill-row{
+	
+	width:50%;
+	margin:100px auto;
+	text-align:left;
+}
+
+.code-image{
+	
+	width:25%;
+	float:left;
+	margin-right:30px;
+	position:relative;
+	bottom:3px;
+}
+
+.blender-logo{
+	height: auto;
+	width:23%;
+	float:left;
+	position: relative;
+	bottom: 12px;
+	left: 10px;
+	margin-right:45px;
+}
+
+.btn{
+	background-color: #ff96ad;
+	text-decoration:none;
+	color:white;
+	font-size: 22px;
+	font-family:'Cantarell', sans-serif;
+	padding:6px 20px;
+	border-radius: 8px;
+	display:inline-block;
+	margin:30px auto;
+}
+
+.btn:hover{
+	background-color: #ff75a0;
+	
+}
+
+
+
+
+.contact-me{
+	
+	width: 50%;
+	margin:130px auto 20px auto;
+}
+/*--------------------------------------------------Bottom-Container------------------------------------------------------*/
+
+.bottom-container{
+	background-color:#ffbbcc;
+	height: 100px;
+	padding-top: 50px;
+}
+
+
+
+.social{
+	width:40px;
+	display: inline;
+	background-image: red;
+	margin:0 10px;
+}
+
+li{
+	display: inline-block;
+	padding:10px 2px 6px 2px;
+	border-radius: 6px;
+	margin-right: 3px;
+}
+
+li:hover{
+	background-color:#F2E8F2;
+}
+
